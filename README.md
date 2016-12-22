@@ -1,1 +1,2 @@
-# yii2-base
+Base tools package for yii2
+=======================
