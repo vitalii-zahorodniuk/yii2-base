@@ -13,7 +13,7 @@ Installation
 
 1.  The preferred way to install this extension is through [composer](http://getcomposer.org/download/), run:
     ```bash
-    php composer.phar require --prefer-dist xz1mefx/yii2-base "dev-master"
+    php composer.phar require --prefer-dist xz1mefx/yii2-base "*"
     ```
 
 1.  Override components (*if need*) in config file:
